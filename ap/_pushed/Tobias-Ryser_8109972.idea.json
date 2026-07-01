@@ -3,12 +3,13 @@
   "photographer": "Tobias Ryser",
   "handle": "@tobias_ryser_fotografie",
   "paired_card": {
-    "type": "VA",
-    "slug": "shoot-asset",
-    "line": "The shoot ends. The asset begins."
+    "type": "MH",
+    "slug": "custom-domain",
+    "line": "Your gallery, your name. Serve projects on your own domain."
   },
-  "copy": "Last warm light across the meadow, the day folding behind the ridge. The shoot ends. The asset begins.",
-  "hashtags": "#moodcase #imagery #creativeteam #visualassetmanagement #photolibrary",
+  "copy": "Last warm light across the meadow, the day folding behind the ridge. Your gallery, your name – served on your own domain.",
+  "hashtags": "#moodcase #photography #studio #photodelivery #photogallery",
   "alt": "A mountain landscape at sunset, with steep cliffs and green meadows glowing in warm light beneath dramatic clouds.",
+  "alt_product": "moodcase gallery view showing the sunset-meadow shot served on the studio's own domain.",
   "target_month": "2026-07"
 }

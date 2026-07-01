@@ -37,4 +37,4 @@ Do not run `git` from inside the Cowork sandbox (the mount blocks file deletion,
 
 ## Credit
 
-Every photo is ambassador work and is always posted with the photographer's handle (carried in the Buffer idea copy). Handles + descriptions are the source of truth in `moodcase-content-hub/social/instagram/ap-library/ambassador-photography-selection-2026.xlsx`.
+Every photo is ambassador work and is always posted with the photographer's credit line (`| Photography by [Name] · @handle`). Photographer name, Instagram handle, and alt text are read from each image's EXIF/XMP metadata via `write_metadata.py --read-ap`.

@@ -4,11 +4,12 @@
   "handle": "@tobias_ryser_fotografie",
   "paired_card": {
     "type": "VA",
-    "slug": "shoot-asset",
-    "line": "The shoot ends. The asset begins."
+    "slug": "metadata-not-memory",
+    "line": "Found by metadata, not by memory."
   },
-  "copy": "Soft light finding its way through the trees, the morning settling in. The shoot ends. The asset begins.",
+  "copy": "Soft light finding its way through the trees, each one in its place. Found by metadata, not by memory.",
   "hashtags": "#moodcase #imagery #creativeteam #visualassetmanagement #photolibrary",
   "alt": "A green forest of tall trees with soft light rays filtering through mist, creating a calm, mystical atmosphere.",
+  "alt_product": "moodcase library view showing the misty-forest shot found by metadata, not by memory.",
   "target_month": "2026-07"
 }
