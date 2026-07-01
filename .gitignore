@@ -1,1 +1,4 @@
 .DS_Store
+*.jpg_original
+*.JPG_original
+*.jpeg_original
